@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @bakader07
-- 👀 I’m interested in <em><b>Web Development</b></em>
-- I’m currently learning <em>JavaScript</em> and planning to learn Angular
+- 👋 Hi, I’m @bakader07, a CS student
+- 👀 I’m interested in <b>Web Development</b>
+- I’m currently learning <b><em>CSS & JavaScript</em></b> and planning to learn <i>Bootstrap/Sass & React JS</i>.
 - 📫 How to reach me? here is <a href="https://www.linkedin.com/in/el-hadj-abdelkader-abdelbaki-8a6574197/">my LinkedIn</a>
 
 <!---
