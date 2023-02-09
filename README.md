@@ -3,4 +3,4 @@
 - 🧑‍💻 I have some experience with the web and Backend Development using **Node.js**.
 - 📱 Currently learning **_Flutter_**.
 - 📖 I'm also reading about **Clean Architecture** and _SOLID_ Principles.
-- 📫 How to reach me? here is <a href="https://www.linkedin.com/in/abdelkader-abdelbaki-8a6574197">my LinkedIn</a>
+- 📫 How to reach me? here is <a href="https://www.linkedin.com/in/abdelkader-abdelbaki-8a6574197" target="_blank">my LinkedIn</a>
